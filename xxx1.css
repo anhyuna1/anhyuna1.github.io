@@ -1,0 +1,14 @@
+* {
+  margin:0;
+  padding:0;
+}
+body {
+  font-family:"나눔스퀘어라운드";
+  font-size:12px;
+}
+ul {
+  list-style-type:none;
+}
+.clear{
+  clear:both;
+}

@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body {
+  font-family:"나눔고딕";
+  font-size : 100%;
+  color: #183c3c;
+}
+ul {
+  list-style-type:none;
+}
+a:link {
+  color: #348180;
+  text-decoration:none;
+}
+a:visited {
+  color: #348180;
+  text-decoration:none;
+}
+a:hover {
+  color: #348180;
+  text-decoration:none;
+}
+a:active {
+  color: #348180;
+  text-decoration:none;
+}
